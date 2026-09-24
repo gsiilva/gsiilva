@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gabriel Silva 👋
 
-<!--
-**gsiilva/gsiilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UNESP, interested in software development, algorithms, and optimization.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- A research project applying Genetic Algorithms to the 1D Cutting Stock Problem.
+- Personal programming projects and expanding my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- **Languages:** Python, Java, C, C++, GDScript
+- **Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, Godot
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/gabriel-silva-baptista-28495139b/)
